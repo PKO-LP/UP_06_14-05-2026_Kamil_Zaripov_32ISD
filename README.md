@@ -1,4 +1,6 @@
+# Бот парсер расписания занятий колледжа 
 
+Сайт: https://spo-13.mskobr.ru/uchashimsya/raspisanie-kanikuly <br>
 Для того чтоб запустить telegram бота установить 
 так же устанговить vpn и запустить его
 ```bash
